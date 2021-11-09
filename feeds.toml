@@ -1,6 +1,6 @@
 [media]
 title = "V CLASSIC"
-url = https://www.vlive.tv/channel/EC8255/board/4073&lang=ko"
+url = "https://www.vlive.tv/channel/EC8255/board/4073&lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong[class^='title_text']"
 linkSelector = "a[class^='post_area']"
