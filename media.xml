@@ -4,17 +4,9 @@
         <title>V CLASSIC</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 11:44:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 12:14:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[소리음악극 <이도> 녹화중계]]></title>
-            <link>https://www.vlive.tv/post/0-26203777</link>
-            <guid>https://www.vlive.tv/post/0-26203777</guid>
-            <pubDate>Tue, 09 Nov 2021 11:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[소리음악극 &lt;이도&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211028_124/1635401024938fwEpt_JPEG/upload_7948074625957802784093077-789d-4c36-92f0-4864bd8d54db.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예고] 현대음악콘서트 <햄릿, 소리의 심리학> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/1-26313407</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/1-26285533</guid>
             <pubDate>Tue, 09 Nov 2021 06:39:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211102_184/1635832148613ngL3U_JPEG/165f8e9a-3ba0-11ec-9ee0-a0369ff94ed0_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <신데렐라> 녹화중계]]></title>
@@ -149,6 +142,13 @@
             <guid>https://www.vlive.tv/post/1-22832293</guid>
             <pubDate>Tue, 09 Nov 2021 06:39:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '바람의 향연']]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 국립오페라단 <라 보엠>]]></title>
+            <link>https://www.vlive.tv/post/0-22478975</link>
+            <guid>https://www.vlive.tv/post/0-22478975</guid>
+            <pubDate>Tue, 09 Nov 2021 12:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 국립오페라단 &lt;라 보엠&gt;]]></content:encoded>
         </item>
     </channel>
 </rss>
