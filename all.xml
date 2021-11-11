@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 05:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 06:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] KSO국제지휘콩쿠르 결선 (V CLASSIC)]]></title>
+            <link>https://www.vlive.tv/post/1-26408605</link>
+            <guid>https://www.vlive.tv/post/1-26408605</guid>
+            <pubDate>Thu, 11 Nov 2021 06:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르 결선]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_152/1636607990282Nh398_JPEG/573a8c2a-42ae-11ec-82c9-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] KSO국제지휘콩쿠르 2차 본선 (V CLASSIC)]]></title>
+            <link>https://www.vlive.tv/post/0-26401906</link>
+            <guid>https://www.vlive.tv/post/0-26401906</guid>
+            <pubDate>Thu, 11 Nov 2021 06:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르 2차 본선]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211111_146/1636607533609gmjdc_JPEG/6da81560-42ad-11ec-8140-a0369ff963bc_09.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 현대음악콘서트 <햄릿, 소리의 심리학> 녹화중계 (V CLASSIC)]]></title>
             <link>https://www.vlive.tv/post/1-26313407</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26292163</guid>
             <pubDate>Tue, 09 Nov 2021 06:39:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 소리음악극 &lt;이도&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211103_261/1635915913310fHC4E_JPEG/21a25be3-3c63-11ec-9ac7-505dac8c381b_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] KSO국제지휘콩쿠르 (V CLASSIC)]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/1-26285533</guid>
             <pubDate>Tue, 09 Nov 2021 06:39:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211102_184/1635832148613ngL3U_JPEG/165f8e9a-3ba0-11ec-9ee0-a0369ff94ed0_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 연극 <신데렐라> 녹화중계 (V CLASSIC)]]></title>
@@ -135,20 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24370486</guid>
             <pubDate>Tue, 09 Nov 2021 06:39:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 슈트라우스]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 코리안심포니오케스트라 '바람의 향연' (V CLASSIC)]]></title>
-            <link>https://www.vlive.tv/post/1-22832293</link>
-            <guid>https://www.vlive.tv/post/1-22832293</guid>
-            <pubDate>Tue, 09 Nov 2021 06:39:00 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '바람의 향연']]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 국립오페라단 <라 보엠> (V CLASSIC)]]></title>
-            <link>https://www.vlive.tv/post/0-22478975</link>
-            <guid>https://www.vlive.tv/post/0-22478975</guid>
-            <pubDate>Tue, 09 Nov 2021 12:14:53 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 국립오페라단 &lt;라 보엠&gt;]]></content:encoded>
         </item>
     </channel>
 </rss>
