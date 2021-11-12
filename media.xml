@@ -4,17 +4,9 @@
         <title>V CLASSIC</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 03:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 04:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[<KSO국제지휘콩쿠르> 2차 본선 ①]]></title>
-            <link>https://www.vlive.tv/post/0-26278610</link>
-            <guid>https://www.vlive.tv/post/0-26278610</guid>
-            <pubDate>Fri, 12 Nov 2021 01:53:08 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;KSO국제지휘콩쿠르&gt; 2차 본선 ①]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211102_168/16358300765355KGMv_JPEG/upload_52099683601287798e30a376e-2f78-453a-9b1e-15ff67d066b8.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예고] KSO국제지휘콩쿠르 결선]]></title>
             <link>https://www.vlive.tv/post/1-26408605</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/1-26313407</guid>
             <pubDate>Tue, 09 Nov 2021 06:39:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 현대음악콘서트 &lt;햄릿, 소리의 심리학&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211104_179/1636000722290Tpudn_JPEG/ac75a4f4-3d28-11ec-ba2c-505dac8c385b_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 소리음악극 <이도> 녹화중계]]></title>
@@ -149,6 +142,13 @@
             <guid>https://www.vlive.tv/post/1-24370468</guid>
             <pubDate>Tue, 09 Nov 2021 06:39:00 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 소프라노 이명주]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 슈트라우스]]></title>
+            <link>https://www.vlive.tv/post/1-24370486</link>
+            <guid>https://www.vlive.tv/post/1-24370486</guid>
+            <pubDate>Fri, 12 Nov 2021 04:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 슈트라우스]]></content:encoded>
         </item>
     </channel>
 </rss>
