@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 09:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 10:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한예종 & 예테보리 대학 교류 공연 (V CLASSIC)]]></title>
+            <link>https://www.vlive.tv/post/0-26460488</link>
+            <guid>https://www.vlive.tv/post/0-26460488</guid>
+            <pubDate>Tue, 23 Nov 2021 10:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[한예종 &amp; 예테보리 대학 교류 공연]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211115_180/1636966135878YghiJ_JPEG/upload_810458571944638772e609ab2-53c1-4bb1-b713-23cc8d69919a.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 가족환경오페라 <빛아이 어둠아이> 녹화중계 (V CLASSIC)]]></title>
             <link>https://www.vlive.tv/post/0-26458058</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-26401906</guid>
             <pubDate>Mon, 22 Nov 2021 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르 2차 본선]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_146/1636607533609gmjdc_JPEG/6da81560-42ad-11ec-8140-a0369ff963bc_09.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 현대음악콘서트 <햄릿, 소리의 심리학> 녹화중계 (V CLASSIC)]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-24370478</guid>
             <pubDate>Mon, 22 Nov 2021 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 말러]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 소프라노 이명주 (V CLASSIC)]]></title>
-            <link>https://www.vlive.tv/post/1-24370468</link>
-            <guid>https://www.vlive.tv/post/1-24370468</guid>
-            <pubDate>Mon, 22 Nov 2021 06:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 소프라노 이명주]]></content:encoded>
         </item>
     </channel>
 </rss>
