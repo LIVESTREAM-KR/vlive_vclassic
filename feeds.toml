@@ -1,5 +1,18 @@
+[notice]
+title = "V CLASSIC ─ Notice"
+url = "https://www.vlive.tv/channel/EC8255/board/603?lang=ko"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "em[class='writer--pwvK2']"
+dateSelector = "span[class='upload_time--wtBj9']"
+dateFormat = "M.dd."
+waitUntil = "networkidle"
+onFail = "stale"
+
 [media]
-title = "V CLASSIC"
+title = "V CLASSIC ─ Media Board"
 url = "https://www.vlive.tv/channel/EC8255/board/4073&lang=ko"
 entrySelector = "li[class^='post_item']"
 titleSelector = "strong[class^='title_text']"
