@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,6 +29,14 @@
             <content:encoded><![CDATA[V CLASSIC]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[예고] 2021 서울국제공연예술제 <오버더떼창 : 문전본풀이> 녹화중계 (V CLASSIC ─ Media Board)]]></title>
+            <link>https://www.vlive.tv/post/0-26665237</link>
+            <guid>https://www.vlive.tv/post/0-26665237</guid>
+            <pubDate>Mon, 29 Nov 2021 08:12:01 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 2021 서울국제공연예술제 &lt;오버더떼창 : 문전본풀이&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_186/1638170469067Yt4mH_JPEG/a31ee89f-50e4-11ec-a74c-48df379ccacc_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 2021 서울국제공연예술제 <놀이터> 녹화중계 (V CLASSIC ─ Media Board)]]></title>
             <link>https://www.vlive.tv/post/1-26597255</link>
             <guid>https://www.vlive.tv/post/1-26597255</guid>
@@ -50,7 +58,6 @@
             <guid>https://www.vlive.tv/post/1-26408605</guid>
             <pubDate>Mon, 22 Nov 2021 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르 결선]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211111_152/1636607990282Nh398_JPEG/573a8c2a-42ae-11ec-82c9-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] KSO국제지휘콩쿠르 2차 본선 (V CLASSIC ─ Media Board)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://www.vlive.tv/post/0-24818198</guid>
             <pubDate>Mon, 22 Nov 2021 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '신세계' - 코른골트]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 말러 (V CLASSIC ─ Media Board)]]></title>
-            <link>https://www.vlive.tv/post/1-24370478</link>
-            <guid>https://www.vlive.tv/post/1-24370478</guid>
-            <pubDate>Thu, 25 Nov 2021 13:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '천상의 노래' - 말러]]></content:encoded>
         </item>
     </channel>
 </rss>
