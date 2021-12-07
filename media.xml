@@ -4,17 +4,9 @@
         <title>V CLASSIC ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Dec 2021 11:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 12:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2021 서울국제공연예술제 <놀이터> 녹화중계]]></title>
-            <link>https://www.vlive.tv/post/0-26589339</link>
-            <guid>https://www.vlive.tv/post/0-26589339</guid>
-            <pubDate>Tue, 07 Dec 2021 11:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021 서울국제공연예술제 &lt;놀이터&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211124_62/1637720713232q1E5S_JPEG/upload_818004486367099001ac5270c-bdcc-4401-89b2-88e581f33cf7.jpg?type=f359x202" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예고] 무용 <안간힘> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/0-26730272</link>
@@ -37,6 +29,7 @@
             <guid>https://www.vlive.tv/post/0-26665237</guid>
             <pubDate>Mon, 29 Nov 2021 08:12:01 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 2021 서울국제공연예술제 &lt;오버더떼창 : 문전본풀이&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20211129_186/1638170469067Yt4mH_JPEG/a31ee89f-50e4-11ec-a74c-48df379ccacc_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 2021 서울국제공연예술제 <놀이터> 녹화중계]]></title>
@@ -149,6 +142,13 @@
             <guid>https://www.vlive.tv/post/0-25214259</guid>
             <pubDate>Mon, 22 Nov 2021 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '환상적 무곡' - 문태국]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 코리안심포니오케스트라 '환상적 무곡' - 라흐마니노프]]></title>
+            <link>https://www.vlive.tv/post/0-25213604</link>
+            <guid>https://www.vlive.tv/post/0-25213604</guid>
+            <pubDate>Tue, 07 Dec 2021 12:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 코리안심포니오케스트라 '환상적 무곡' - 라흐마니노프]]></content:encoded>
         </item>
     </channel>
 </rss>
