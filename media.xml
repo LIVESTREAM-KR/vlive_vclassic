@@ -4,9 +4,17 @@
         <title>V CLASSIC ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 00:34:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 02:00:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 전통 <마음의 노래 14> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-27361921</link>
+            <guid>https://www.vlive.tv/post/0-27361921</guid>
+            <pubDate>Mon, 10 Jan 2022 02:00:10 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 전통 &lt;마음의 노래 14&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_176/1641779106933ct4w7_JPEG/ead32d4e-71b5-11ec-b908-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 무용 <3rd Altimeets> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/1-27307703</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27045486</guid>
             <pubDate>Thu, 23 Dec 2021 05:12:21 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 무용 &lt;1687-움직임에 대한 원리&gt; 녹화중계]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211223_127/1640235635263eOR26_JPEG/fb3a769c-63ac-11ec-b891-246e963a4708_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 무용 <안간힘> 녹화중계]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/1-25694774</guid>
             <pubDate>Mon, 22 Nov 2021 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 무용 &lt;아뇌쿠메네&gt; 녹화중계]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 제7회 동편제 국악 축제]]></title>
-            <link>https://www.vlive.tv/post/1-25656346</link>
-            <guid>https://www.vlive.tv/post/1-25656346</guid>
-            <pubDate>Thu, 06 Jan 2022 12:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 제7회 동편제 국악 축제]]></content:encoded>
         </item>
     </channel>
 </rss>
