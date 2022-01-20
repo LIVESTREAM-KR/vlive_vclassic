@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 10:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 11:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,6 +29,14 @@
             <content:encoded><![CDATA[V CLASSIC]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[무용 <3rd Altimeets> 녹화중계 (V CLASSIC ─ Media Board)]]></title>
+            <link>https://www.vlive.tv/post/1-27307670</link>
+            <guid>https://www.vlive.tv/post/1-27307670</guid>
+            <pubDate>Thu, 20 Jan 2022 11:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[무용 &lt;3rd Altimeets&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220106_93/1641443228747xY3hY_JPEG/upload_85522964177663964bbd20dfa-6fe8-4865-be21-205d2be12940.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예고] 전통 <마음의 노래 14> 녹화중계 (V CLASSIC ─ Media Board)]]></title>
             <link>https://www.vlive.tv/post/0-27361921</link>
             <guid>https://www.vlive.tv/post/0-27361921</guid>
@@ -50,7 +58,6 @@
             <guid>https://www.vlive.tv/post/0-27132205</guid>
             <pubDate>Wed, 29 Dec 2021 08:12:12 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 창작국악오페라코미크 &lt;인당수의 우렁총각, 용궁출신입니다만&gt;]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211229_242/16407620618532T3Sw_JPEG/2b1c7479-6875-11ec-8a02-505dac8c35ff_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 무용 <1687-움직임에 대한 원리> 녹화중계 (V CLASSIC ─ Media Board)]]></title>
@@ -163,13 +170,6 @@
             <guid>https://www.vlive.tv/post/0-25788448</guid>
             <pubDate>Sat, 11 Dec 2021 09:09:56 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 창작연희극 &lt;줄 타는 아이와 아프리카도마뱀&gt; 녹화중계]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 무용 <아뇌쿠메네> 녹화중계 (V CLASSIC ─ Media Board)]]></title>
-            <link>https://www.vlive.tv/post/1-25694774</link>
-            <guid>https://www.vlive.tv/post/1-25694774</guid>
-            <pubDate>Thu, 13 Jan 2022 13:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 무용 &lt;아뇌쿠메네&gt; 녹화중계]]></content:encoded>
         </item>
     </channel>
 </rss>
