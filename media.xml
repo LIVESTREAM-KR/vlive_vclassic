@@ -4,9 +4,17 @@
         <title>V CLASSIC ─ Media Board</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 무용 <LEADING SPIRIT> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-27738491</link>
+            <guid>https://www.vlive.tv/post/0-27738491</guid>
+            <pubDate>Thu, 03 Feb 2022 08:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 무용 &lt;LEADING SPIRIT&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_170/1643874732802SAsdk_JPEG/9a3a04d6-84c5-11ec-a810-505dac8c385b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예고] 전통 <마음의 노래 14> 녹화중계]]></title>
             <link>https://www.vlive.tv/post/0-27361921</link>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/0-27132205</guid>
             <pubDate>Wed, 29 Dec 2021 08:12:12 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 창작국악오페라코미크 &lt;인당수의 우렁총각, 용궁출신입니다만&gt;]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20211229_242/16407620618532T3Sw_JPEG/2b1c7479-6875-11ec-8a02-505dac8c35ff_10.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예고] 무용 <1687-움직임에 대한 원리> 녹화중계]]></title>
@@ -142,13 +149,6 @@
             <guid>https://www.vlive.tv/post/0-25788448</guid>
             <pubDate>Mon, 22 Nov 2021 06:11:59 GMT</pubDate>
             <content:encoded><![CDATA[[예고] 창작연희극 &lt;줄 타는 아이와 아프리카도마뱀&gt; 녹화중계]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[예고] 무용 <아뇌쿠메네> 녹화중계]]></title>
-            <link>https://www.vlive.tv/post/1-25694774</link>
-            <guid>https://www.vlive.tv/post/1-25694774</guid>
-            <pubDate>Thu, 20 Jan 2022 13:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[[예고] 무용 &lt;아뇌쿠메네&gt; 녹화중계]]></content:encoded>
         </item>
     </channel>
 </rss>
