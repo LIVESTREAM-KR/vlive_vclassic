@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/EC8255/board/4073&amp;lang=ko</id>
-    <title>V CLASSIC ─ Media Board</title>
-    <updated>2022-09-01T20:13:33.212Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>V CLASSIC ─ Media Board</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 01 Sep 2022 21:12:05 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예고] 무용 < LEADING SPIRIT > 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-27738491</link>
+            <guid>https://www.vlive.tv/post/0-27738491</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 무용 &lt; LEADING SPIRIT &gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_170/1643874732802SAsdk_JPEG/9a3a04d6-84c5-11ec-a810-505dac8c385b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 전통 <마음의 노래 14> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-27361921</link>
+            <guid>https://www.vlive.tv/post/0-27361921</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 전통 &lt;마음의 노래 14&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220110_176/1641779106933ct4w7_JPEG/ead32d4e-71b5-11ec-b908-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 무용 <3rd Altimeets> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-27307703</link>
+            <guid>https://www.vlive.tv/post/1-27307703</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 무용 &lt;3rd Altimeets&gt; 녹화중계]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220106_121/1641443460954YwCh6_JPEG/20f8fefd-6ea9-11ec-bf52-a0369ff9545c_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 창작국악오페라코미크 <인당수의 우렁총각, 용궁출신입니다만>]]></title>
+            <link>https://www.vlive.tv/post/0-27132205</link>
+            <guid>https://www.vlive.tv/post/0-27132205</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 창작국악오페라코미크 &lt;인당수의 우렁총각, 용궁출신입니다만&gt;]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 무용 <1687-움직임에 대한 원리> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-27045486</link>
+            <guid>https://www.vlive.tv/post/0-27045486</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 무용 &lt;1687-움직임에 대한 원리&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 무용 <안간힘> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-26730272</link>
+            <guid>https://www.vlive.tv/post/0-26730272</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 무용 &lt;안간힘&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 2021 서울국제공연예술제 <디스토피아> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-26724659</link>
+            <guid>https://www.vlive.tv/post/1-26724659</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 2021 서울국제공연예술제 &lt;디스토피아&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 2021 서울국제공연예술제 <오버더떼창 : 문전본풀이> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-26665237</link>
+            <guid>https://www.vlive.tv/post/0-26665237</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 2021 서울국제공연예술제 &lt;오버더떼창 : 문전본풀이&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 2021 서울국제공연예술제 <놀이터> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-26597255</link>
+            <guid>https://www.vlive.tv/post/1-26597255</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 2021 서울국제공연예술제 &lt;놀이터&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 가족환경오페라 <빛아이 어둠아이> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-26458058</link>
+            <guid>https://www.vlive.tv/post/0-26458058</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 가족환경오페라 &lt;빛아이 어둠아이&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] KSO국제지휘콩쿠르 결선]]></title>
+            <link>https://www.vlive.tv/post/1-26408605</link>
+            <guid>https://www.vlive.tv/post/1-26408605</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르 결선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] KSO국제지휘콩쿠르 2차 본선]]></title>
+            <link>https://www.vlive.tv/post/0-26401906</link>
+            <guid>https://www.vlive.tv/post/0-26401906</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르 2차 본선]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 현대음악콘서트 <햄릿, 소리의 심리학> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-26313407</link>
+            <guid>https://www.vlive.tv/post/1-26313407</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 현대음악콘서트 &lt;햄릿, 소리의 심리학&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 소리음악극 <이도> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-26292163</link>
+            <guid>https://www.vlive.tv/post/0-26292163</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 소리음악극 &lt;이도&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] KSO국제지휘콩쿠르]]></title>
+            <link>https://www.vlive.tv/post/1-26285533</link>
+            <guid>https://www.vlive.tv/post/1-26285533</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] KSO국제지휘콩쿠르]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 연극 <신데렐라> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-26059943</link>
+            <guid>https://www.vlive.tv/post/1-26059943</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 연극 &lt;신데렐라&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 무용 <2nd Altimeets> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-25984970</link>
+            <guid>https://www.vlive.tv/post/1-25984970</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 무용 &lt;2nd Altimeets&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 연극 <햄릿의 비극> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/1-25910635</link>
+            <guid>https://www.vlive.tv/post/1-25910635</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 연극 &lt;햄릿의 비극&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 무용 <집속의 집_두 번째 이야기> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-25836010</link>
+            <guid>https://www.vlive.tv/post/0-25836010</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 무용 &lt;집속의 집_두 번째 이야기&gt; 녹화중계]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[예고] 창작연희극 <줄 타는 아이와 아프리카도마뱀> 녹화중계]]></title>
+            <link>https://www.vlive.tv/post/0-25788448</link>
+            <guid>https://www.vlive.tv/post/0-25788448</guid>
+            <pubDate>Thu, 01 Sep 2022 21:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[[예고] 창작연희극 &lt;줄 타는 아이와 아프리카도마뱀&gt; 녹화중계]]></content:encoded>
+        </item>
+    </channel>
+</rss>
