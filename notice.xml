@@ -2,28 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.vlive.tv/channel/EC8255/board/603?lang=ko</id>
     <title>V CLASSIC ─ Notice</title>
-    <updated>2022-12-23T05:09:43.125Z</updated>
+    <updated>2022-12-23T06:17:30.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[2017년 10월 27일(금) 저녁 8시 김정원의 V살롱콘서트 [바이올리니스트 김봄소리] 생방송 예정입니다....]]></title>
-        <id>https://www.vlive.tv/post/0-3112935</id>
-        <link href="https://www.vlive.tv/post/0-3112935"/>
-        <updated>2022-11-20T10:11:53.606Z</updated>
-        <content type="html"><![CDATA[V CLASSIC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월 27일 6:30 PM 김정원의 V살롱콘서트 [피아니스트 손열음] 질문을 받습니다 재치있는 질문 및 댓글...]]></title>
-        <id>https://www.vlive.tv/post/1-1840363</id>
-        <link href="https://www.vlive.tv/post/1-1840363"/>
-        <updated>2022-11-20T10:11:53.615Z</updated>
-        <content type="html"><![CDATA[V CLASSIC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6/12 8PM 김정원의 V살롱콘서트 [소프라노 황수미] 질문을 받습니다 음악에 관련된 질문이나 그 밖에 여...]]></title>
-        <id>https://www.vlive.tv/post/0-1195429</id>
-        <link href="https://www.vlive.tv/post/0-1195429"/>
-        <updated>2022-11-20T10:11:53.626Z</updated>
-        <content type="html"><![CDATA[V CLASSIC]]></content>
-    </entry>
 </feed>
